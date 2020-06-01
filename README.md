@@ -1,5 +1,5 @@
 # Puzzle-Game
-This is a puzzle game coding for the purpose of learning C programming syntax 3 years ago. (When I am beginner with C.)
+This is puzzle game is coded for the purpose of learning C programming syntax 3 years ago. (When I am beginner with C.)
 
 A sample run is shown below.
 
