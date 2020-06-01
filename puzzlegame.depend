@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1523559952 source:c:\users\eren\desktop\c programming\puzzlegame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1523559952 source:c:\users\administrator\desktop\c\puzzlegame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1523559952 source:c:\users\terminou\desktop\puzzlegame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
